@@ -1,0 +1,8 @@
+name: Manati CKEditor Plugins
+type: module
+description: This module provides plugins for CKEditor.
+package: MANATI
+core: 8.x
+core_version_requirement: ^8 || ^9
+'interface translation project': manati_ckeditor
+'interface translation server pattern': modules/custom/manati_ckeditor/translations/%project.%language.po

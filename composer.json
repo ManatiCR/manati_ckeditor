@@ -1,0 +1,19 @@
+{
+  "name": "manaticr/manati_ckeditor",
+  "description": "This module provides plugins for CKEditor.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Manati",
+      "email": "info@estudiomanati.com"
+    },
+    {
+      "name": "Marvin J. Cortés",
+      "email": "marvin@estudiomanati.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {}
+}

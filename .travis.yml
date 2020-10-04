@@ -17,3 +17,4 @@ before_script:
   - composer require manaticr/manati_ckeditor:"*"
 script:
   - ./vendor/bin/drush si standard -y --db-url=sqlite://tmp/.ht.sqlite
+  - ./vendor/bin/drush en manati_ckeditor -y

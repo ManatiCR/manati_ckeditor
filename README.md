@@ -1,4 +1,4 @@
-# Manati CKEditor Plugins
+# Manati CKEditor Plugins[![Build Status](https://travis-ci.org/ManatiCR/manati_ckeditor.svg?branch=8.x)](https://travis-ci.org/ManatiCR/manati_ckeditor)
 
 This module provides plugins for CKEditor.
 
